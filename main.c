@@ -3,4 +3,5 @@
 void main(void)
 {
 	int createdOnSecondCommit;
+	int newBranchVar = createdOnSecondCommit * 2;
 }
